@@ -18,11 +18,6 @@
 
 **基于 STM32F103C8T6 的环境数据采集与远程控制系统**
 
-[![Platform](https://img.shields.io/badge/platform-STM32F103C8T6-blue.svg)](https://www.st.com/en/microcontrollers-microprocessors/stm32f103c8.html)
-[![IDE](https://img.shields.io/badge/IDE-Keil%20MDK--5-orange.svg)](https://www.keil.com/)
-[![Library](https://img.shields.io/badge/library-Standard%20Peripheral%20Library-brightgreen.svg)](https://www.st.com/en/embedded-software/stsw-stm32054.html)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
-
 一个集**环境感知、本地显示、远程控制**于一体的嵌入式系统。通过多传感器实时采集环境数据，在 OLED 屏幕上动态显示，并支持通过电脑串口发送指令，远程控制舵机角度与灯光开关。
 
 ---
