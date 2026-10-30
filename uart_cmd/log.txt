@@ -1,0 +1,28 @@
+【rtos_1、rtos_test】，测试error
+
+
+【sensor_0706】
+弃用
+
+【sg90_0708】，07/09
+LED，按键驱动舵机，OLED
+
+【sensor_0709】
+OLED
+距离测量成功
+红外感应成功
+舵机成功
+称重
+按键控制，长按
+温湿度错误码：2
+
+【uart_0710】
+DHT11故障
+
+【uart_0717】
+all succeed
+
+【uart_cmd】07/18
+all succeed
+发送0、1、2、3控制LED
+发送F、B、S控制舵机
